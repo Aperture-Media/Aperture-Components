@@ -1,0 +1,23 @@
+{
+  "name": "aperture-components",
+  "version": "0.0.1",
+  "description": "Web Components but Aperture Media edition.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aperture-Media/Aperture-Components.git"
+  },
+  "author": "Aperture Media",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aperture-Media/Aperture-Components/issues"
+  },
+  "homepage": "https://github.com/Aperture-Media/Aperture-Components#readme",
+  "devDependencies": {
+    "webpack": "^5.32.0",
+    "webpack-cli": "^4.6.0"
+  }
+}

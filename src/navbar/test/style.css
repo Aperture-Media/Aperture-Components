@@ -1,0 +1,18 @@
+:root {
+  --am-primary: #264653;
+  --am-secondary: #e76f51;
+  --am-accent: #f4a261;
+  --clr-bg: #e9c46a;
+}
+
+/* Global Styles */
+
+html, body {
+  margin: 0;
+}
+
+body {
+  background-color: var(--clr-bg, #fff);
+  font-family: 'Nunito', sans-serif;
+  font-size: 16px;
+}
