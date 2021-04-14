@@ -40,12 +40,32 @@ Children:
 
 - Nav Item
 
+Variables:
+
+```css
+:root {
+  --am-primary: var(--your-colors);
+  --am-secondary: var(--your-colors);
+  --am-accent: var(--your-colors);
+}
+```
+
 ### Nav Item
 
 Tag: 
 
 ```html
 <am-nav-item></am-nav-item>
+```
+
+Variables:
+
+```css
+:root {
+  --am-primary: var(--your-colors);
+  --am-secondary: var(--your-colors);
+  --am-accent: var(--your-colors);
+}
 ```
 
 Attributes:
