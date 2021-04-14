@@ -7,7 +7,7 @@ Your one stop shop for (relativley) custom UI components.
 The only way to currently import Aperture Components into your project is through the cdn:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/Aperture-Media/Aperture-Components/dist/main.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Aperture-Media/Aperture-Components@56879fb3f95f0995654ce08021e7cef021aa5905/dist/main.min.js"></script>
 ```
 
 ## Usage
